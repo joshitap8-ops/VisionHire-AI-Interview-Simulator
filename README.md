@@ -105,6 +105,9 @@ Frontend runs at: **http://localhost:3000**
 
 ---
 
+## Screen Shots
+<img width="1896" height="906" alt="frontpage" src="https://github.com/user-attachments/assets/de9bfa39-2077-413d-bc29-703484152306" />
+
 ## Project Structure
 
 ```
