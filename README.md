@@ -106,7 +106,13 @@ Frontend runs at: **http://localhost:3000**
 ---
 
 ## Screen Shots
+FRONT PAGE
 <img width="1896" height="906" alt="frontpage" src="https://github.com/user-attachments/assets/de9bfa39-2077-413d-bc29-703484152306" />
+
+LOGIN PAGE
+<img width="1901" height="915" alt="login" src="https://github.com/user-attachments/assets/cbbb93eb-f1a5-4951-bc7a-0c24ac58cb67" />
+
+<img width="1897" height="905" alt="interviewpg" src="https://github.com/user-attachments/assets/e6d77652-a8e2-4f24-86f3-9e32069c7828" />
 
 ## Project Structure
 
