@@ -49,7 +49,7 @@ A full-stack AI interview platform that uses **Mistral AI (via Ollama)**, **Medi
 ```bash
 # Download from https://ollama.ai and install
 # Then pull the Mistral model:
-ollama pull mistral
+ollama pull phi4
 
 # Start Ollama (it usually starts automatically)
 ollama serve
@@ -78,6 +78,8 @@ copy .env.example .env   # Windows
 
 # Start the backend server
 python main.py
+# or
+python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
 Backend runs at: **http://localhost:8000**
