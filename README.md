@@ -48,8 +48,8 @@ A full-stack AI interview platform that uses **Mistral AI (via Ollama)**, **Medi
 
 ```bash
 # Download from https://ollama.ai and install
-# Then pull the Mistral model:
-ollama pull phi4
+# Then pull the lamma model:
+ollama pull llama3.2
 
 # Start Ollama (it usually starts automatically)
 ollama serve
